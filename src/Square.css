@@ -1,0 +1,9 @@
+.square {
+    flex: 1 0 auto;
+    background-color: wheat;
+}
+
+.hoverSquare{
+    flex: 1 0 auto;
+    background-color: red;
+}
